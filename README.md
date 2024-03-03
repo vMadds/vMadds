@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vMadds
 - 👀 I’m interested in IT, SQL, HTML, Databases, Web Design, Cyberethics, Gaming, Game Development and more.
-- 🌱 I’m currently learning Web Development Technologies and The Digital Economy.
+- 🌱 I’m currently learning Progammming Project 1 and Social Media, Communities and Networks.
 - 💞️ I’m looking to be a game developer or designer in the future, or get into UX Design.
 - 📫 How to reach me: Email: s3964407@student.rmit.edu.au , or alternatively Discord: Maddi#9365
 
